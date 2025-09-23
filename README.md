@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/Pranav-1100/Pranav-1100/main/coding.gif" width="320px" alt="Coding Animation" />
+<img align="right" src="https://raw.githubusercontent.com/Sam-wiz/Sam-wiz/main/coding.gif" width="320px" alt="Coding Animation" />
 
 ## 💡 About Me 
 
@@ -80,13 +80,13 @@ I'm a developer who enjoys building useful and scalable applications. My experie
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-1100&show_icons=true&count_private=true&theme=aura&hide_border=true&border_radius=10" alt="Pranav's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pranav-1100&theme=aura&hide_border=true&border_radius=10" alt="Pranav's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-wiz&show_icons=true&count_private=true&theme=aura&hide_border=true&border_radius=10" alt="Samrudh's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sam-wiz&theme=aura&hide_border=true&border_radius=10" alt="Samrudh's GitHub Streak" width="49%" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-1100&layout=compact&theme=aura&hide_border=true&border_radius=10" alt="Top Languages" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-wiz&layout=compact&theme=aura&hide_border=true&border_radius=10" alt="Top Languages" width="65%" />
 </div>
 
 ## 🌐 Connect & Collaborate
@@ -115,6 +115,6 @@ I'm a developer who enjoys building useful and scalable applications. My experie
 
 <div align="center">
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Pranav-1100&style=for-the-badge&color=6842FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sam-wiz&style=for-the-badge&color=6842FF" alt="profile views" />
 </p>
 </div>

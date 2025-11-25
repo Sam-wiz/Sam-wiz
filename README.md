@@ -13,12 +13,6 @@
 
 I'm a developer who enjoys building useful and scalable applications. My experience spans full-stack and mobile development using various technologies. I've built products used by 800+ users and I'm always looking forward to learning new skills and solving real problems through code.
 
-## 🚀 Current Missions
-
-- 🌐 **Building Better Web Applications** - Working on responsive and performance-optimized web solutions
-- 📱 **Creating Cross-Platform Mobile Experiences** - Developing apps that work seamlessly across different devices
-- 🤖 **Working with AI & Automation** - Building AI-powered tools and Multi-Channel Platforms for real-world applications
-
 ## 💻 Tech Arsenal
 
 ### Languages
